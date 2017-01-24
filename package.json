@@ -1,0 +1,22 @@
+{
+  "name": "expensify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InfySwapnil/Expensify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InfySwapnil/Expensify/issues"
+  },
+  "homepage": "https://github.com/InfySwapnil/Expensify#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
